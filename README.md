@@ -1,7 +1,7 @@
 English | [中文](README.zh_CN.md)
 ## What is Coze Studio?
 
-[Coze Studio](https://www.coze.cn/home/cracrahapppcracrahappp) is an all-in-one AI agent development tool. Providing the latest large models and tools, various development modes and frameworks, Coze Studio offers the most convenient AI agent development environment, from development to deployment. 
+[Coze Studio](https://www.coze.cn/home/cracrahapppcracrahappp) is an all-in-one AI agent development tool. Providing the latest large models and tools, various development modes and frameworks, Coze Studio offers the most convenient AI agent development environment, from development to deployment. 20260401.
 
 * **Provides all core technologies needed for AI agent development**: prompt, RAG, plugin, workflow, enabling developers to focus on creating the core value of AI.
 * **Ready to use for professional AI agent development at the lowest cost**: Coze Studio provides developers with complete app templates and build frameworks, allowing you to quickly construct various AI agents and turn creative ideas into reality.
